@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.29">
+<file name="C:\Users\Nicole\Downloads\CodingStandardss\src\main\java\labcodingstandards\Calculator.java">
+<error line="1" severity="error" message="Line does not match expected header line of &apos;// Copyright (C) 2020&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.HeaderCheck"/>
+<error line="13" severity="error" message="Type Javadoc comment is missing @author tag." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocTypeCheck"/>
+<error line="15" column="9" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+<error line="18" column="25" severity="error" message="Name &apos;reader&apos; must match pattern &apos;^[az](_?[a-zA-Z0-9]+)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.LocalVariableNameCheck"/>
+<error line="22" column="14" severity="error" message="Name &apos;operator&apos; must match pattern &apos;^[az](_?[a-zA-Z0-9]+)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.LocalVariableNameCheck"/>
+<error line="23" column="16" severity="error" message="Name &apos;First&apos; must match pattern &apos;^[az](_?[a-zA-Z0-9]+)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.LocalVariableNameCheck"/>
+<error line="24" column="16" severity="error" message="Name &apos;second&apos; must match pattern &apos;^[az](_?[a-zA-Z0-9]+)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.LocalVariableNameCheck"/>
+<error line="25" column="16" severity="error" message="Name &apos;input&apos; must match pattern &apos;^[az](_?[a-zA-Z0-9]+)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.LocalVariableNameCheck"/>
+<error line="51" column="20" severity="error" message="Name &apos;cal&apos; must match pattern &apos;^[az](_?[a-zA-Z0-9]+)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.LocalVariableNameCheck"/>
+<error line="52" column="16" severity="error" message="Name &apos;result&apos; must match pattern &apos;^[az](_?[a-zA-Z0-9]+)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.LocalVariableNameCheck"/>
+<error line="59" column="24" severity="error" message="Name &apos;result&apos; must match pattern &apos;^[az](_?[a-zA-Z0-9]+)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.LocalVariableNameCheck"/>
+</file>
+</checkstyle>

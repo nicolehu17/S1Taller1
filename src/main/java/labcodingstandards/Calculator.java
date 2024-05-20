@@ -10,9 +10,11 @@ import java.util.Scanner;
  * @author
  *
  */
-public class Calculator {	
-	
-	public static void main(String[] args) {
+public class Calculator {
+//CHECKSTYLE:OFF
+	public static void main(String[] args) 
+//CHECKSTYLE:ON
+	{
 		Scanner reader = new Scanner(System.in);
 		
         System.out.print("1. +\n2. -\n3. *\n4. /\nEnter an operator: ");
